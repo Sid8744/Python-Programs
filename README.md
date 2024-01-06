@@ -1,1 +1,5 @@
 # Python-Programs
+Welcome to Python Programs Repository.
+As we know, Python is useful programming language for machine learning because of its rich ecosystem of libraries (NumPy, SciPy, Scikit-learn, TensorFlow, PyTorch), ease of learning, strong community support, versatility, excellent documentation, tools for data manipulation (Pandas), support for Jupyter Notebooks, integration with big data tools, and machine learning APIs. These factors contribute to Python's popularity and effectiveness in developing machine learning applications.
+In summary, Python's versatility, extensive libraries, community support, and ease of learning make it a powerful and preferred language for machine learning development and research. Its popularity continues to grow as the machine learning and artificial intelligence fields evolve.
+So in order to understand Python for Machine Learning and Data Science, this Repository is created which of simple and easy to understand Python Programs which are aimed at using various Python datatypes, control statements and transfer statements to solve various problem statements. 
